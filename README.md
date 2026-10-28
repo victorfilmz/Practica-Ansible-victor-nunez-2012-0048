@@ -1,4 +1,4 @@
-# Práctica: Automatización de Servidores con Ansible y Docker
+# Práctica: Automatización de Servidores con Ansible y Docker - Víctor Núñez (2012-0048)
 
 ## Descripción
 Esta práctica consiste en aprovisionar y gestionar múltiples servidores Ubuntu simulados mediante contenedores Docker usando Docker Compose, y configurarlos de manera automatizada utilizando Ansible.
